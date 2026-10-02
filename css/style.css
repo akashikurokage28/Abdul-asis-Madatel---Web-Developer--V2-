@@ -648,6 +648,10 @@ section #projects{
     flex-wrap: wrap;
 }
 
+.project-classifier li{
+    cursor: pointer;
+}
+
 .project-classifier p{
     font-size: clamp(0.75rem, 0.662rem + 0.3756vw, 1rem);
     color: var(--muted-text-color);
