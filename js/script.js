@@ -167,3 +167,24 @@ window.addEventListener('DOMContentLoaded', () => {
     }
     showSection(initialId);
 });
+
+
+//CONTACT FORM VALIDATION
+const form = document.querySelector(".contact-form");
+const nameInput = document.getElementById("name");
+const emailInput = document.getElementById("email");
+const messageInput = document.getElementById("message");
+const submitBtn = form.querySelector("button[type='submit']");
+
+function updateSubmitState() {
+    const nameFilled = nameInput.value.trim() !== "";
+    const emailValid = emailInput.value.trim() !== "" && emailInput.checkValidity();
+    const messageFilled = messageInput.value.trim() !== "";
+    submitBtn.disabled = !(nameFilled && emailValid && messageFilled);
+}
+
+[nameInput, emailInput, messageInput].forEach((el) => {
+    el.addEventListener("input", updateSubmitState);
+});
+
+updateSubmitState();

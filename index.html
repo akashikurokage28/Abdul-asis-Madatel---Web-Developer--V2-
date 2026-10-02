@@ -307,22 +307,23 @@
                         </div>
                     </div>
                         
-                    <!-- Contact Form -->
-                    <form action="#" class="contact-form">
+                    <form action="https://api.web3forms.com/submit" method="POST" class="contact-form">
+                        <input type="hidden" name="access_key" value="e3f7f9a3-100f-4d39-919a-1c48b2c2e21a">
+
                         <div class="input">
-                            <p>Full Name</p>
-                            <input type="text" name="" id="" required>
+                            <label for="name">Full Name</label>
+                            <input type="text" name="name" id="name" required>
                         </div>
                         <div class="input">
-                            <p>Email</p>
-                            <input type="email" name="" id="" required>
+                            <label for="email">Email</label>
+                            <input type="email" name="email" id="email" required>
                         </div>
                         <div class="input">
-                            <p>Message</p>
-                            <textarea name="" id=""></textarea>
+                            <label for="message">Message</label>
+                            <textarea name="message" id="message" required></textarea>
                         </div>
                         <div class="submit-btn-wrapper">
-                            <button class="submit-btn" enabled><i class="ri-send-plane-fill"></i>Send Message</button>
+                            <button type="submit" class="submit-btn" disabled><i class="ri-send-plane-fill"></i>Send Message</button>
                         </div>
                     </form>
                 </div>

@@ -42,6 +42,14 @@
       "alt": "Diversion 21 Hotel",
       "title": "Diversion 21 Hotel",
       "category": "Web Development"
+    },
+
+    {
+      "href": "https://abdulaziz-madatel-v1.vercel.app/",
+      "image": "./assets/images/abdulaziz-madatel-v1.png",
+      "alt": "Abdulaziz Madatel Portfolio (v1)",
+      "title": "Abdulaziz Madatel Portfolio (v1)",
+      "category": "Web Development"
     }
   ]
 }
