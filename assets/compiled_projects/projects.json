@@ -1,0 +1,47 @@
+{
+  "projects": [
+    {
+      "href": "https://project-no-1-neumorphism-todo-list.vercel.app/",
+      "image": "./assets/images/portfolio_project_1-darkmode.png",
+      "alt": "Neumorphic To-do List",
+      "title": "Neumorphic To-do List",
+      "category": "Web Appplication"
+    },
+    {
+      "href": "https://neumorphic-calculator-liard.vercel.app/",
+      "image": "./assets/images/portfolio_project_2-darkmode.png",
+      "alt": "Neumorphic Calculator",
+      "title": "Neumorphic Calculator",
+      "category": "Web Application"
+    },
+    {
+      "href": "https://skyview-clima.vercel.app/",
+      "image": "./assets/images/skyclima.png",
+      "alt": "SkyClima",
+      "title": "SkyClima",
+      "category": "Web Application"
+    },
+    {
+      "href": "https://the-glend-hotel-delta.vercel.app/",
+      "image": "./assets/images/the-glend-hotel-mockup.jpg",
+      "alt": "The Glend Hotel",
+      "title": "The Glend Hotel",
+      "category": "Web Development"
+    },
+    {
+      "href": "https://anime-fav-refined.vercel.app/",
+      "image": "./assets/images/animefav-cover.png",
+      "alt": "AnimeFav",
+      "title": "AnimeFav",
+      "category": "Web Development"
+    },
+
+    {
+      "href": "https://diversion-21.vercel.app/",
+      "image": "./assets/images/diversion21_cover.png",
+      "alt": "Diversion 21 Hotel",
+      "title": "Diversion 21 Hotel",
+      "category": "Web Development"
+    }
+  ]
+}
