@@ -50,6 +50,14 @@
       "alt": "Abdulaziz Madatel Portfolio (v1)",
       "title": "Abdulaziz Madatel Portfolio (v1)",
       "category": "Web Development"
+    },
+
+    {
+      "href": "https://hapag-site.vercel.app/",
+      "image": "./assets/images/hapag-site.png",
+      "alt": "Hapag Site",
+      "title": "Hapag Site",
+      "category": "Web Development"
     }
   ]
 }
