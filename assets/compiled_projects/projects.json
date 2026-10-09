@@ -58,6 +58,14 @@
       "alt": "Hapag (Restaurant Website)",
       "title": "Hapag (Restaurant Website)",
       "category": "Web Development"
+    },
+
+    {
+      "href": "https://hearth-and-bean.vercel.app/",
+      "image": "./assets/images/hearth-and-bean.png",
+      "alt": "Hearth & Bean (Cafe Website)",
+      "title": "Hearth & Bean (Cafe Website)",
+      "category": "Web Development"
     }
   ]
 }
