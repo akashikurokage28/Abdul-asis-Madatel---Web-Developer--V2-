@@ -74,6 +74,14 @@
       "alt": "Hearth & Bean (Cafe Website v2)",
       "title": "Hearth & Bean (Cafe Website v2)",
       "category": "Web Development"
+    },
+
+    {
+      "href": "https://lakan-cafe.vercel.app/",
+      "image": "./assets/images/lakan-site.png",
+      "alt": "Lakan Cafe (Restaurant Website)",
+      "title": "Lakan  Cafe (Restaurant Website)",
+      "category": "Web Development"
     }
   ]
 }
