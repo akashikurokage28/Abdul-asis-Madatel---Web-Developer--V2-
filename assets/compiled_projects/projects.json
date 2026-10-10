@@ -66,6 +66,14 @@
       "alt": "Hearth & Bean (Cafe Website)",
       "title": "Hearth & Bean (Cafe Website)",
       "category": "Web Development"
+    },
+
+    {
+      "href": "https://hearth-and-bean-v2.vercel.app/",
+      "image": "./assets/images/hearth-and-bean-v2.png",
+      "alt": "Hearth & Bean (Cafe Website v2)",
+      "title": "Hearth & Bean (Cafe Website v2)",
+      "category": "Web Development"
     }
   ]
 }
