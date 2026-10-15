@@ -82,6 +82,14 @@
       "alt": "Lakan Cafe (Restaurant Website)",
       "title": "Lakan  Cafe (Restaurant Website)",
       "category": "Web Development"
+    },
+
+    {
+      "href": "https://k-egg-neon.vercel.app/",
+      "image": "./assets/images/kegg.png",
+      "alt": "K-egg (Restaurant Demo Website)",
+      "title": "K-egg (Restaurant Demo Website)",
+      "category": "Web Development"
     }
   ]
 }
