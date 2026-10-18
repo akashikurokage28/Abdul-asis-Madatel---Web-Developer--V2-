@@ -90,6 +90,14 @@
       "alt": "K-egg (Restaurant Demo Website)",
       "title": "K-egg (Restaurant Demo Website)",
       "category": "Web Development"
+    },
+
+    {
+      "href": "https://aurelle-salon-eta.vercel.app/",
+      "image": "./assets/images/aurelle-salon.png",
+      "alt": "Aurelle Salon & Spa (Salon Demo Website)",
+      "title": "Aurelle Salon & Spa (Salon Demo Website)",
+      "category": "Web Development"
     }
   ]
 }
