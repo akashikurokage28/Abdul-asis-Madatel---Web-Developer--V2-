@@ -48,6 +48,8 @@ function createProjectElement(project) {
     const anchor = document.createElement('a');
     anchor.href = project.href || '#';
     anchor.className = 'project';
+    anchor.target = '_blank';
+    anchor.rel = 'noopener noreferrer';
 
     const cover = document.createElement('div');
     cover.className = 'project-cover';
