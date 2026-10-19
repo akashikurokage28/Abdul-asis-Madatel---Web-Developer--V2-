@@ -68,7 +68,7 @@ function createProjectElement(project) {
     const category = document.createElement('p');
     category.textContent = project.category;
 
-    details.appendChild(title);
+    details.appendChild(title); 
     details.appendChild(category);
 
     anchor.appendChild(cover);

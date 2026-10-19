@@ -98,6 +98,14 @@
       "alt": "Aurelle Salon & Spa (Salon Demo Website)",
       "title": "Aurelle Salon & Spa (Salon Demo Website)",
       "category": "Web Development"
+    },
+
+    {
+      "href": "https://linea-salon-studio.vercel.app/",
+      "image": "./assets/images/linea-salon.png",
+      "alt": "Linea Studio (Salon Demo Website)",
+      "title": "Linea Studio (Salon Demo Website)",
+      "category": "Web Development"
     }
   ]
 }
